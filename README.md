@@ -1,9 +1,5 @@
-### Looking for maintainers
-
-If anyone is interested in fixing some bugs or even extending MonikAI - contact me.
-
-This repository is currently *unmaintained*, meaning your issues will probably not be commented on.
-
+# This software is obsolete
+This software is unmaintained and obsolete, and is being preserved here.
 # MonikAI
 
 Hi! It's me, Monika!
